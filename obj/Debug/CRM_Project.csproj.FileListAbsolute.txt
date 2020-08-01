@@ -1,0 +1,15 @@
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\CRM_Project.exe.config
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\CRM_Project.exe
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\CRM_Project.pdb
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.csprojAssemblyReference.cache
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.Properties.Resources.resources
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.csproj.GenerateResource.cache
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.csproj.CoreCompileInputs.cache
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.exe
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.pdb
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\EntityFramework.dll
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\EntityFramework.xml
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.LoginForm.resources
+C:\Users\merta\source\repos\CRM_Project\CRM_Project\obj\Debug\CRM_Project.csproj.CopyComplete
